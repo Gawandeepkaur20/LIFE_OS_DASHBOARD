@@ -722,8 +722,6 @@ with st.container(border=True):
 
     st.code(share_link)
 
-    if st.button("📋 Copy Link"):
-       st.success("Copied to clipboard! Share it with your friends.")
     st.caption(
     "The link includes today's date, screen time and productivity score."
 )
