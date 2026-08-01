@@ -711,7 +711,7 @@ with st.container(border=True):
     "Copy this link and share today's wellness report with a friend or accountability partner."
 )
 
-    base_url = "https://your-app-name.streamlit.app"
+    base_url = "https://digital-wellbeing-dashboard.streamlit.app/"
 
     share_link = (
         f"{base_url}"
